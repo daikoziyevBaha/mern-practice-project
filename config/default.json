@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "this is secret token",
+    "mongoUri": "mongodb+srv://bahatect:muitvtipo12345@cluster0.hkxflii.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
